@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b196a48d68b4a4c8f67d3e01835219, type: 3}
+  m_Name: Hoe_Tomato
+  m_EditorClassIdentifier: 
+  type: 3
+  sprite: {fileID: -1058333151, guid: fb8389e5cdd14cc479b4272c0094fa3d, type: 3}
+  prefab: {fileID: 7915369602787680826, guid: baafdb2469ef5554b9eac5b3296340c0, type: 3}
+  maxCount: 1
